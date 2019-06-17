@@ -28,3 +28,4 @@ for i in range(len(ipList)):
             ipList[i], ipList[j] = ipList[j], ipList[i]
 print(ipList[0:10])
 
+print(哈哈哈)
